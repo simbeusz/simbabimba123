@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    flex: 1;
+}
+aside {
+    width: 20%;
+    background-color: #f4f4f4;
+    padding: 1em;
+}
+#content {
+    flex: 1;
+    padding: 2em;
+    background-color: #fff;
+}
